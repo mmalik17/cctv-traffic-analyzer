@@ -1,4 +1,4 @@
-# cctv-traffic-analyzer
+# CCTV Traffic Analyzer
 
 Jakarta is one of the most congested cities in the world, not just in Indonesia, with traffic jams costing billions of dollars in lost productivity every year. 
 On the good side, several road in Jakarta already has a wide network of publicly accessible CCTV cameras. Recent advances in computer vision now make it entirely feasible to automatically analyze CCTV camera snapshots for vehicle presence, density, and type. 
