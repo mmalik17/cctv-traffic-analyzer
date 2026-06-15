@@ -11,7 +11,8 @@ This project aims to build an end-to-end automated pipeline that captures the tr
 3. Produce a structure dataset stored in Supabase that reveals clear hourly traffic patterns across Jakarta roads, enabling evidence-based insights for commuters and urban planners. <br>
 
 ## Project Flow
-<img width="1135" height="517" alt="image" src="https://github.com/user-attachments/assets/e9fe5bdb-4a38-4dca-87ab-73bff77268f5" />
+<img width="972" height="446" alt="image" src="https://github.com/user-attachments/assets/beb1181a-a6e0-44ef-87a6-7bedcfe99d03" />
+
 
 
 
